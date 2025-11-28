@@ -1,0 +1,5 @@
+{
+  "name": "$DUCKHAT Landing Page",
+  "description": "A scrollable comic-strip style landing page for the $DUCKHAT memecoin, featuring an interactive AI image generator to duckify user photos.",
+  "requestFramePermissions": []
+}
